@@ -43,7 +43,7 @@ class Solution {
             }      
             
         }
-        System.out.println(hm);
+       // System.out.println(hm);
         int[] res =new int[nums1.length];
         for(int i=0;i<=nums1.length-1;i++)
         {
